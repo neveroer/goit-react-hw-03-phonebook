@@ -1,0 +1,13 @@
+body {
+  background-color: antiquewhite;
+}
+
+.container {
+  width: 420px;
+  padding: 25px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 4px 4px 8px 0px rgba(54, 19, 19, 0.2);
+}
